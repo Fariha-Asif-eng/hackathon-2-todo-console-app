@@ -1,0 +1,7 @@
+# CLI Todo Application Requirements
+
+# Runtime dependencies (if any)
+# For this project, we're using only Python standard library
+
+# Testing dependencies
+pytest>=7.0.0
